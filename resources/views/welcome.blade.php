@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                Chi è Federico Borsci
                 </div>
 
                 <div class="links">
